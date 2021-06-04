@@ -46,7 +46,7 @@ public class amber_index {
 		
 		// Ramka
 		JFrame ramka = new JFrame("[Amber] TCP Messenger.");
-		ramka.setSize(800,600);
+		ramka.setSize(810,610);
 		ramka.setLayout(null);
 		ramka.setResizable(false);
 		ramka.setLocationRelativeTo(null);
