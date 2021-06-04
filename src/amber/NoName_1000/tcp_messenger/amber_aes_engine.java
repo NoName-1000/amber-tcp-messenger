@@ -9,7 +9,7 @@ import java.util.Base64;
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 
-public class amber_aes_engine {
+public class amber_aes_engine { 
 	
 	private static SecretKeySpec kluczPrywatny;
 	private static byte[] klucz;
